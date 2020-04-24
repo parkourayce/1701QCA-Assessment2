@@ -4,13 +4,57 @@ You will use this workbook to keep track of your progress through the course and
 
 When you have completed the template, submit the link to the GitHub Pages site for this repository as a link in Learning@Griffith. The link should be something like [https://qcainteractivemedia.github.io/1701QCA-Assessment2/](https://qcainteractivemedia.github.io/1701QCA-Assessment2/) where `qcainteractivemedia` is replaced with your GitHub username and `1701QCA-Assessment2` is replaced with whatever you called the repository this template is contained in when you set it up.
 
-## Project working title ##
-*Insert a name for the project as you conceive of it at the moment.*
+## Backflip Counter ##
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 2 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 3 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 4 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 5 ###
+*Insert name of project*
+
+*Insert URL to project*
+
+![Image](missingimage.png)
+
+This project is related to mine because *insert reasons here*.
+
+### Related project 6 ###
 *Insert name of project*
 
 *Insert URL to project*
@@ -29,7 +73,7 @@ This project is related to mine because *insert reasons here*.
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+Wearable device that keeps count of amount of backflips you do.
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
@@ -62,4 +106,4 @@ Ensure you include comments about the choices you've made along the way.*
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
 
 ## Next steps ##
-*Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
+To move forward on this project. I want to create a more permermant way to attatch the microbit to your body to act more as a wearable device. 
