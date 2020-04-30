@@ -10,14 +10,14 @@ You will use this workbook to keep track of your progress through the course and
 ### Related project 1 ###
 Micro bit Step Counter
 https://makecode.microbit.org/projects/step-counter 
-![Image](image1.png)
+![Image](image1.PNG)
 
 This project is related to mine because lots of the coding is the same. However instead of an element been on each ‘step’ it is on each ‘rotation’ to add a counter on the micro bit.  About half of my coding stems from this project. 
 
 ### Related project 2 ###
 Basketball score counter
 https://www.dfrobot.com/blog-1008.html
-![Image](image2.png)
+![Image](image2.PNG)
 
 This project is related to mine because it is also a score counter, but for every time the ball is shot into the basketball hoop. For their invention, they had a unique idea and used extra equipment such as DuPont cables, digital mobile speaker, and a micro mate. Using these sensors allowed DFRobot to create an innovative project.
 
@@ -32,7 +32,7 @@ This project demonstrated to me the fundamentals of creating a counter. This tut
 ### Related project 4 ###
 Mircobit Stop Watch
 https://makecode.microbit.org/projects/stopwatch
-![Image](image4.png)
+![Image](image4.PNG)
 
 This project is related to mine because it has the same reset function. This project instead of counting flips counts the seconds that go by after the button is pressed. The code of this project looks similar to mine as it contains a few of the same elements.
 
@@ -41,14 +41,14 @@ Step Counter with rewards
 
 *Insert URL to project*
 
-![Image](image5.png)
+![Image](image5.PNG)
 
 This project is related to mine because it tracks how many steps the user does. The design of this project as a ‘wearable device’ gave me inspiration on what I could do for my final project to make it a more permanent, wearable design. 
 
 ### Related project 6 ###
 Micro bit Wear: IT
 https://www.edtechs.com.au/product_p/mbit-wearit.htm
-![Image](image6.png)
+![Image](image6.PNG)
 
 This project is gave me inspiration towards my design process as it shows how I could make the device wearable. Currently I do not have the materials and this is my first prototype, but for the final design I plan to have it so that the device is wearable. 
 
@@ -64,16 +64,16 @@ I have thought lots about what would be the best and most effective way to make 
 Wearable device that counts the amount of backflips you do
 
 ### Design concept 1 ###
-![Image](idea3.png)
+![Image](idea3.PNG)
 
 For my first design idea, I thought about attaching it your thigh and then having some sort of band that wrapped around. I thought that that would be a good idea at first, but then thought of the user experience in trying to wrap a small micro bit around their thigh and thought it might be a bit difficult. 
 
 ### Design concept 2 ###
-![Image](idea1.png)
+![Image](idea1.PNG)
 For the second design concept idea, I thought about putting the device around the ankle, and sewing the micro bit into a sock or a wearable device. This is a great idea, however it could interfere with the flexibility of your ankle while you are jumping. 
 
 ### Final design concept ###
-![Image](idea2.png)
+![Image](idea2.PNG)
 For the final design concept, I thought about having a strap or a band, so that it was like wearing a watch. This would interfere the least with the actual backflip and will most likely be the most comfortable for the user. I thought about either using an old sock or sewing it into it. The interaction for the user would be the most easy and familiar, as people have most likely worn watches before. The materials to be used would be cotton. I am also thinking about a strap like a watch, but I don’t know how I’d attach it to the micro bit. While writing this I came up with a final idea. I could glue the micro bit down to a piece of strong cardboard, and then make holes which can fit rubber band in. These rubber bands you would be able to squeeze over your arm to make it tight.    
 
 ### Interaction flowchart ###
