@@ -32,7 +32,7 @@ This project demonstrated to me the fundamentals of creating a counter. This tut
 ### Related project 4 ###
 Mircobit Stop Watch
 https://makecode.microbit.org/projects/stopwatch
-![Image](image 4.PNG)
+![Image](image4.PNG)
 
 This project is related to mine because it has the same reset function. This project instead of counting flips counts the seconds that go by after the button is pressed. The code of this project looks similar to mine as it contains a few of the same elements.
 
@@ -41,7 +41,7 @@ Step Counter with rewards
 
 *Insert URL to project*
 
-![Image](image 5.PNG)
+![Image](image5.PNG)
 
 This project is related to mine because it tracks how many steps the user does. The design of this project as a ‘wearable device’ gave me inspiration on what I could do for my final project to make it a more permanent, wearable design. 
 
