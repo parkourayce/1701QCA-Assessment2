@@ -48,7 +48,7 @@ This project is related to mine because it tracks how many steps the user does. 
 ### Related project 6 ###
 Micro bit Wear: IT
 https://www.edtechs.com.au/product_p/mbit-wearit.htm
-![Image](image6.PNG)
+![Image](image6.jpg)
 
 This project is gave me inspiration towards my design process as it shows how I could make the device wearable. Currently I do not have the materials and this is my first prototype, but for the final design I plan to have it so that the device is wearable. 
 
@@ -64,16 +64,16 @@ I have thought lots about what would be the best and most effective way to make 
 Wearable device that counts the amount of backflips you do
 
 ### Design concept 1 ###
-![Image](idea3.PNG)
+![Image](idea3.jpg)
 
 For my first design idea, I thought about attaching it your thigh and then having some sort of band that wrapped around. I thought that that would be a good idea at first, but then thought of the user experience in trying to wrap a small micro bit around their thigh and thought it might be a bit difficult. 
 
 ### Design concept 2 ###
-![Image](idea1.PNG)
+![Image](idea1.jpg)
 For the second design concept idea, I thought about putting the device around the ankle, and sewing the micro bit into a sock or a wearable device. This is a great idea, however it could interfere with the flexibility of your ankle while you are jumping. 
 
 ### Final design concept ###
-![Image](idea2.PNG)
+![Image](idea2.jpg)
 For the final design concept, I thought about having a strap or a band, so that it was like wearing a watch. This would interfere the least with the actual backflip and will most likely be the most comfortable for the user. I thought about either using an old sock or sewing it into it. The interaction for the user would be the most easy and familiar, as people have most likely worn watches before. The materials to be used would be cotton. I am also thinking about a strap like a watch, but I don’t know how I’d attach it to the micro bit. While writing this I came up with a final idea. I could glue the micro bit down to a piece of strong cardboard, and then make holes which can fit rubber band in. These rubber bands you would be able to squeeze over your arm to make it tight.    
 
 ### Interaction flowchart ###
