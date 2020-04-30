@@ -10,14 +10,14 @@ You will use this workbook to keep track of your progress through the course and
 ### Related project 1 ###
 Micro bit Step Counter
 https://makecode.microbit.org/projects/step-counter 
-![Image](missingimage.png)
+![Image](image1.png)
 
 This project is related to mine because lots of the coding is the same. However instead of an element been on each ‘step’ it is on each ‘rotation’ to add a counter on the micro bit.  About half of my coding stems from this project. 
 
 ### Related project 2 ###
 Basketball score counter
 https://www.dfrobot.com/blog-1008.html
-![Image](missingimage.png)
+![Image](image2.png)
 
 This project is related to mine because it is also a score counter, but for every time the ball is shot into the basketball hoop. For their invention, they had a unique idea and used extra equipment such as DuPont cables, digital mobile speaker, and a micro mate. Using these sensors allowed DFRobot to create an innovative project.
 
@@ -25,14 +25,14 @@ This project is related to mine because it is also a score counter, but for ever
 Micro bit Counter
 
 https://www.instructables.com/id/How-to-Make-a-Counter-With-Microbit/
-![Image](missingimage.png)
+No Image available
 
 This project demonstrated to me the fundamentals of creating a counter. This tutorial shows what materials you will need to make the project and the programming steps used to set it up. The counter used in this tutorial is a counter of how many times the button is pressed. When the button ‘A’ and ‘B’ are pressed together the counter resets. Since my counter was sensor based with the rotation of the micro bit, I created my project so that it resets with just one button press. 
 
 ### Related project 4 ###
 Mircobit Stop Watch
 https://makecode.microbit.org/projects/stopwatch
-![Image](missingimage.png)
+![Image](image4.png)
 
 This project is related to mine because it has the same reset function. This project instead of counting flips counts the seconds that go by after the button is pressed. The code of this project looks similar to mine as it contains a few of the same elements.
 
@@ -41,7 +41,7 @@ Step Counter with rewards
 
 *Insert URL to project*
 
-![Image](missingimage.png)
+![Image](image5.png)
 
 This project is related to mine because it tracks how many steps the user does. The design of this project as a ‘wearable device’ gave me inspiration on what I could do for my final project to make it a more permanent, wearable design. 
 
