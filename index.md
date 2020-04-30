@@ -32,7 +32,7 @@ This project demonstrated to me the fundamentals of creating a counter. This tut
 ### Related project 4 ###
 Mircobit Stop Watch
 https://makecode.microbit.org/projects/stopwatch
-![Image](image4.PNG)
+![Image](image 4.PNG)
 
 This project is related to mine because it has the same reset function. This project instead of counting flips counts the seconds that go by after the button is pressed. The code of this project looks similar to mine as it contains a few of the same elements.
 
@@ -41,14 +41,14 @@ Step Counter with rewards
 
 *Insert URL to project*
 
-![Image](image5.PNG)
+![Image](image 5.PNG)
 
 This project is related to mine because it tracks how many steps the user does. The design of this project as a ‘wearable device’ gave me inspiration on what I could do for my final project to make it a more permanent, wearable design. 
 
 ### Related project 6 ###
 Micro bit Wear: IT
 https://www.edtechs.com.au/product_p/mbit-wearit.htm
-![Image](image6.jpg)
+![Image](image6.JPG)
 
 This project is gave me inspiration towards my design process as it shows how I could make the device wearable. Currently I do not have the materials and this is my first prototype, but for the final design I plan to have it so that the device is wearable. 
 
