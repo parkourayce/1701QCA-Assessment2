@@ -83,6 +83,7 @@ Unwanted actions could be if people do a handstand instead of a flip, or if they
 
 ## Physical experimentation documentation ##
 Code of project.
+
 ![Image](missingimage.png)
 
 Fabrication. The initial materials I was going to use was cotton, and to sew it onto a sock. However, I changed my mind when I realised I didn’t have any old socks I wanted to cut apart, and I also didn’t know how to sew. I thought about gluing the micro bit to a little bit of cardboard, or double sided taping it. Then having holes on this board which rubber bands would be able to attach onto, and onto your arms.  
